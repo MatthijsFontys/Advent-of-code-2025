@@ -1,6 +1,6 @@
 
 {-
- - DAY 1 | Puzzle 1 | Star 1/24
+ - DAY 2 | Puzzle 1 | Star 3/24
 -}
 
 exampleInput :: [[Int]]
